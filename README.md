@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Ayush Gupta
-- 👀 I’m interested in Web Development and have prior experiences working as a freelancer in MERN stack.
-- 🌱 I’m currently learning Blockchain
 - 📫 How to reach me itsayushgupta18@gmail.com
 - Linkedin - https://www.linkedin.com/in/ayush-gupta-33913118b/
 - Twitter - https://twitter.com/itsayushgupta18
